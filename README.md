@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=1000&color=9E7CD7&center=true&vCenter=true&random=false&width=500&height=60&lines=Hi+I'm+Nguyen+Ngoc+Minh+Tan" alt="Typing SVG" /></a>
 </h1>
   
-<h3 align="center">A third-year student at HCM University Of Technology (Hutech)</h3>
+<h3 align="center">A fourth-year student at HCM University Of Technology (Hutech)</h3>
 
 <br/>
 
