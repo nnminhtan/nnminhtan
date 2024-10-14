@@ -9,7 +9,7 @@
 
 <div align="center">
  
-✨ I’m currently working on **Malware Analysis**
+✨ I’m currently working on **Honeypot**
  
 🔒 I’m currently learning **Cybersecurity**
 
